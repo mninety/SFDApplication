@@ -1,0 +1,9 @@
+MemoryLimitValue=6000.0;
+CPULimitValue=80;
+DiskFreeSpace=15.0;
+DiskReadlimit=2.5;
+DiskWritelimit=0.05;
+Packetpersec=84.375;
+pinglatency=12.5;
+ProcesswiseMemory=50;
+ProcesswiseCPU=0.2;
